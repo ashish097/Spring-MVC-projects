@@ -1,0 +1,15 @@
+<html>
+<body>
+	<h2>Done</h2>
+	<table>
+         <tr>
+            <td>Name</td>
+            <td>${name}</td>
+         </tr>
+         <tr>
+            <td>Age</td>
+            <td>${age}</td>
+         </tr>
+      </table> 
+</body>
+</html>
